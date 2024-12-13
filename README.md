@@ -1,3 +1,3 @@
 # This is my zomato landing page clone
-## This is first commit
-## Edited in git
+## Done with first commit
+## setup created here for our application
